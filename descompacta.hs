@@ -1,0 +1,1 @@
+descompacta xs = (map (fst) xs, map (snd) xs)
